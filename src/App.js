@@ -1,7 +1,5 @@
 import React from 'react';
-import Resturant from "./rasturent/rasturent";
-// import UseState from "./usestate/usestate";
-// import Todo from "./todo/todo.js";
+import Todo from "./todo/todo.js";
 // import Weather from "./weather App/weather";
 // import Clock from "./clock/clock"
 
@@ -10,8 +8,8 @@ import Resturant from "./rasturent/rasturent";
 const App = () => {
   return (
     <>
-    <Resturant/>
-    {/* <Todo/> */}
+
+    <Todo/>
     {/* <Weather/> */}
     {/* <Clock/> */}
     {/* <UseState/> */}
