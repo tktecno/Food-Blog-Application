@@ -10,9 +10,6 @@ const App = () => {
     <>
 
     <Resturant/>
-    {/* <Weather/> */}
-    {/* <Clock/> */}
-    {/* <UseState/> */}
     </>
   );
 };
